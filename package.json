@@ -1,0 +1,17 @@
+{
+  "name": "uxlint",
+  "version": "0.0.1",
+  "description": "AI-powered UX quality gate. Paste a URL, get Pass/Fail in 30 seconds.",
+  "main": "index.js",
+  "keywords": ["ux", "lint", "accessibility", "usability", "ai", "quality-gate"],
+  "author": "GoodWelchi, Inc. <contact@goodwelchi.com>",
+  "license": "MIT",
+  "homepage": "https://uxlint.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodwelchi/uxlint"
+  },
+  "bin": {
+    "uxlint": "index.js"
+  }
+}
