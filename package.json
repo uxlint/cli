@@ -1,5 +1,5 @@
 {
-  "name": "uxlint",
+  "name": "@goodwelchi/uxlint",
   "version": "0.0.1",
   "description": "AI-powered UX quality gate. Paste a URL, get Pass/Fail in 30 seconds.",
   "main": "index.js",
