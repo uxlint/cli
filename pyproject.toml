@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "uxlint"
-version = "0.0.1"
+version = "0.0.2"
 description = "AI-powered UX quality gate. Paste a URL, get Pass/Fail in 30 seconds."
 readme = "README.md"
 license = "MIT"
@@ -24,3 +24,6 @@ classifiers = [
 [project.urls]
 Homepage = "https://uxlint.dev"
 Repository = "https://github.com/goodwelchi/uxlint"
+
+[project.scripts]
+uxlint = "uxlint.cli:main"
