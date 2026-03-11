@@ -4,14 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "uxlint"
-version = "0.0.2"
-description = "AI-powered UX quality gate. Paste a URL, get Pass/Fail in 30 seconds."
+version = "0.0.3"
+description = "AI-powered UX checker. Enter a URL, get UX insights in 60 seconds."
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.10"
 authors = [
-    {name = "GoodWelchi, Inc.", email = "contact@goodwelchi.com"},
+    {name = "Good Welchi, Inc.", email = "contact@uxlint.dev"},
 ]
 keywords = ["ux", "lint", "accessibility", "usability", "ai"]
 classifiers = [
@@ -23,7 +23,7 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://uxlint.dev"
-Repository = "https://github.com/goodwelchi/uxlint"
+Repository = "https://github.com/uxlint/cli"
 
 [project.scripts]
 uxlint = "uxlint.cli:main"

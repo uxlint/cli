@@ -1,3 +1,3 @@
-"""UXLint — AI-powered UX quality gate for web applications."""
+"""UXLint — AI-powered UX checker for web applications."""
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
