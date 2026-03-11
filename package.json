@@ -1,5 +1,5 @@
 {
-  "name": "@goodwelchi/uxlint",
+  "name": "@uxlint/cli",
   "version": "0.0.3",
   "description": "AI-powered UX checker. Enter a URL, get UX insights in 60 seconds.",
   "main": "index.js",
